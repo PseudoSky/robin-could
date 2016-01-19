@@ -35,6 +35,6 @@ $132=200.000 (z max travel, mm)
 
 To Run tests
 ```
-
+python grbl_file.py grbl-test/bsfn.gcode
 python grbl_file.py grbl-test/maze.gcode
 ```
